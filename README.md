@@ -1,1 +1,2 @@
-# Weather-app-Projetc
+# Weather-app-Project
+# JavaScript-Css-Html
